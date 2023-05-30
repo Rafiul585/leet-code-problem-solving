@@ -36,6 +36,6 @@ class Solution:
 
 
 solution = Solution()
-result = solution.isPalindrome3(x)
+result = solution.isPalindrome(x)
 print(result)
 
